@@ -1,6 +1,14 @@
 {
+  "name": "fake-api-art-cats-gallery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "node": "^16.17.0",
-    "server.js": "^1.0.0"
+    "json-server": "^0.17.0"
   }
 }
