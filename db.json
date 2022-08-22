@@ -1,0 +1,34 @@
+{
+    "gallery": [
+      {
+        "id": 1,
+        "name": "The Scream",
+        "image": "https://fatcatart.com/wp-content/uploads/2016/08/Munch-The_Scream-1893-cat-w.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Mona Lisa",
+        "image": "https://media.gazetadopovo.com.br/viver-bem/2015/08/cats-galore04-fcd0bd90.jpg"
+      },
+      {
+        "id": 3,
+        "name": "The Creation Of Adam",
+        "image": "https://i.pinimg.com/originals/fd/9b/77/fd9b776fe9e693fbd8af9fd0930d31a9.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Almond Blossom",
+        "image": "https://fatcatart.com/wp-content/gallery/european-art-xix/Van-Gogh_Almond_Blossom_cat-w.jpg"
+      },
+      {
+        "id": 5,
+        "name": "The Birth Of Venus",
+        "image": "https://fatcatart.com/wp-content/gallery/italian-renaissance/botticelli-the-birth-of-venus-cat-sm.jpg"
+      },
+      {
+        "id": 6,
+        "name": "The Kiss",
+        "image": "https://fatcatart.com/wp-content/gallery/european-art-xix/Klimt_-_The_Kiss-cat-w.jpg"
+      }
+    ]
+  }
